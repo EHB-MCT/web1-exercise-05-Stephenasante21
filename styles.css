@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #016da9;
+}
+
+p{
+    font-weight: bold;
+}
+
+.all{
+    width: 940px;
+    margin-left: 19%;
+    margin-right: 19%;
+}
+
+.featured{
+   display: inline-block;
+}
+
+.een{
+    margin-right: 15px;
+}
+.twee{
+    margin-right: 15px;
+}
+
+.whoswho{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
