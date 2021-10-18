@@ -12,8 +12,7 @@ p{
 
 .all{
     width: 940px;
-    margin-left: 19%;
-    margin-right: 19%;
+    margin: auto;
 }
 
 .featured{
@@ -28,9 +27,8 @@ p{
 }
 
 .whoswho{
-    display: inline-block;
-    margin: 0;
-    padding: 0;
+   float: left;
+   margin: 0;
 }
 
 
